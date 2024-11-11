@@ -2,7 +2,7 @@ body {
     color: white;
     background: black;
     margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
+    font-family: "comic-sans", sans-serif;
     margin-bottom: 100px;
 }
 
@@ -26,11 +26,11 @@ header {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 60px;
 }
 
 p {
-    font-size: 20px;
+    font-size: 40px;
 }
 
 .categoria-videos {
